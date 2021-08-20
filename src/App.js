@@ -1,10 +1,10 @@
 import './App.css';
-import HookMouse from './components/03_UseEffect/HookMouse';
+import MouseContainer from './components/03_UseEffect/MouseContainer';
 
 function App() {
   return (
     <div className="App">
-      <HookMouse />
+      <MouseContainer />
     </div>
   );
 }
