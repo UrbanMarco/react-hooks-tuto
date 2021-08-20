@@ -1,10 +1,10 @@
 import './App.css';
-import IntervalHookCounter from './components/03_UseEffect/IntervalHookCounter';
+import DataFetching from './components/03_UseEffect/DataFetching';
 
 function App() {
   return (
     <div className="App">
-      <IntervalHookCounter />
+      <DataFetching />
     </div>
   );
 }
